@@ -53,7 +53,7 @@ As a Senior Principal in Slalom’s Data & AI practice, I lead and architect mod
 
 ## 📫 Connect
 
-🔗 [LinkedIn (Personal)](https://www.linkedin.com/in/jamiros/)  
+🔗 [LinkedIn (Personal)](https://www.linkedin.com/in/ogramos/)
 🌐 [Personal GitHub Profile](https://github.com/jamiros)
 
 ---
