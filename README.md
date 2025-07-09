@@ -27,22 +27,6 @@ As a Senior Principal in Slalom’s Data & AI practice, I lead and architect mod
 
 ---
 
-## 📦 Featured Projects (Selected Work)
-
-- **Metadata-Driven ELT Framework**  
-  Modular orchestration engine for Microsoft Fabric using Python and JSON templates  
-
-- **Unity Catalog Migration Toolkit**  
-  Accelerated migration from legacy workspaces to Unity Catalog with policy automation  
-
-- **CI/CD for Databricks**  
-  Reference pipeline and deployment pattern using Azure DevOps and workspace APIs  
-
-- **Segregated Data Tier for Sandboxes**  
-  Secure, obfuscated data provisioning layer for experimentation and AI development  
-
----
-
 ## 🤝 How I Work
 
 - Always design with **security, maintainability, and client ownership** in mind  
