@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi there, I'm Og | Senior Principal, Data & AI @ Slalom
 
-<!--
-**og-ramos-slalom/og-ramos-slalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my Slalom GitHub profile!  
+Here, you'll find repositories and projects that reflect the innovative, scalable, and secure data solutions I build in partnership with clients.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+As a Senior Principal in Slalom’s Data & AI practice, I lead and architect modern data platforms that empower businesses to:
+
+- 🚧 Modernize legacy data systems  
+- 📊 Build metadata-driven ELT frameworks  
+- ☁️ Migrate and operationalize cloud data platforms (Azure, Databricks, Fabric, AWS)  
+- 🔐 Implement secure and governed data sharing (Unity Catalog, RBAC, ABAC)  
+- ⚙️ Accelerate delivery through automation, CI/CD, and reusable assets  
+
+---
+
+## 🧠 Areas of Expertise
+
+- **Cloud Platforms**: Azure, AWS, Microsoft Fabric, Databricks  
+- **Data Engineering**: PySpark, SQL, Delta Lake, Data Factory, Airflow  
+- **Infrastructure as Code**: Terraform, Bicep  
+- **Architecture Patterns**: Lakehouse, Medallion, RAG (Retrieval-Augmented Generation)  
+- **Client Enablement**: DataOps, observability, sandbox environments, training & coaching  
+
+---
+
+## 📦 Featured Projects (Selected Work)
+
+- **Metadata-Driven ELT Framework**  
+  Modular orchestration engine for Microsoft Fabric using Python and JSON templates  
+
+- **Unity Catalog Migration Toolkit**  
+  Accelerated migration from legacy workspaces to Unity Catalog with policy automation  
+
+- **CI/CD for Databricks**  
+  Reference pipeline and deployment pattern using Azure DevOps and workspace APIs  
+
+- **Segregated Data Tier for Sandboxes**  
+  Secure, obfuscated data provisioning layer for experimentation and AI development  
+
+---
+
+## 🤝 How I Work
+
+- Always design with **security, maintainability, and client ownership** in mind  
+- Promote **documentation-first** and **automation-first** delivery culture  
+- Prioritize **collaboration and coaching** to uplift team capability  
+
+---
+
+## 📫 Connect
+
+🔗 [LinkedIn (Personal)](https://www.linkedin.com/in/jamiros/)  
+🌐 [Personal GitHub Profile](https://github.com/jamiros)
+
+---
+
+> _“Empower teams. Engineer outcomes. Elevate impact.”_  
+— Slalom Mindset
